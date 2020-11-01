@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 import math as m
 from matplotlib import pyplot as plt
 #from ZweiteMethodeDrehErkennung import x_g, y_g, z_g, goal_x, goal_y, wand_x, wand_y
